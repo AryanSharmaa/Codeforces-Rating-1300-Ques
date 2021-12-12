@@ -13,3 +13,5 @@ Preferred to solve in the order provided :dizzy:
 ### [1. Young Physicist  69A](https://codeforces.com/problemset/problem/69/A " Young Physicist") 
 **********************************************************
 ### [2. Beautiful Matrix  263A](https://codeforces.com/problemset/problem/263/A " Beautiful Matrix")
+**************************************************************
+### [3. Queue At The School  266B](https://codeforces.com/problemset/problem/266/B )
