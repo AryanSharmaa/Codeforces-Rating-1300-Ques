@@ -20,4 +20,4 @@ Preferred to solve in the order provided :dizzy:
 ***************************************************************
 ### [5. Beautiful Year](https://codeforces.com/problemset/problem/271/A)
 ****************************************************************
-### [6. Borze  32B](https://codeforces.com/contest/32/problem/B )
+### [6. Word  59A](https://codeforces.com/problemset/problem/59/A)
