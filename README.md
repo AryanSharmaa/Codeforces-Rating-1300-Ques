@@ -15,3 +15,9 @@ Preferred to solve in the order provided :dizzy:
 ### [2. Beautiful Matrix  263A](https://codeforces.com/problemset/problem/263/A " Beautiful Matrix")
 **************************************************************
 ### [3. Queue At The School  266B](https://codeforces.com/problemset/problem/266/B )
+**************************************************************
+### [4. Borze  32B](https://codeforces.com/contest/32/problem/B )
+***************************************************************
+### [5. Beautiful Year](https://codeforces.com/problemset/problem/271/A)
+****************************************************************
+### [6. Borze  32B](https://codeforces.com/contest/32/problem/B )
