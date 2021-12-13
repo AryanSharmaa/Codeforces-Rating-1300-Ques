@@ -21,3 +21,5 @@ Preferred to solve in the order provided :dizzy:
 ### [5. Beautiful Year  271A](https://codeforces.com/problemset/problem/271/A)
 ****************************************************************
 ### [6. Word  59A](https://codeforces.com/problemset/problem/59/A)
+*****************************************************************
+### [6. Word Capitalization  281A](https://codeforces.com/problemset/problem/281/A)
